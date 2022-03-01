@@ -1,0 +1,72 @@
+body{
+    background: url("https://previews.123rf.com/images/stanislavstradnic/stanislavstradnic1711/stanislavstradnic171100074/90262199-composizione-di-natale-sfondo-regalo-confezionato-in-confezione-rossa-con-pigne-decorative-colorate-.jpg");
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #000;
+  }
+  li{
+      float:left;
+  }
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+ 
+  li a:hover {
+    background-color: #555;
+    color: white;
+  }
+  div{
+    width: auto;
+    margin: auto;
+    border: 1px solid #250364;
+  }
+  div.img{
+    width:min-content;
+    margin: auto;
+    border: none;
+    text-align: center;
+    size: 100px;
+    max-width: 100%;
+    height: auto;
+  }
+  h1{
+    margin:inherit;
+      color:rgb(228, 220, 220);
+      text-align: center;
+      border: 2px solid #971c1c;
+      background-color: #971c1c;
+  }
+  h4{
+    margin:inherit;
+      color:rgb(228, 220, 220);
+      text-align: center;
+      border: 2px solid #971c1c;
+      background-color: #971c1c;
+  }
+  p{
+    margin:inherit;
+    text-align: center;
+    border: 2px solid #948e8e;
+    background-color: #948e8e;
+  }
+  div.img-beta{
+    width: fit-content;
+    background-color: rgb(25, 104, 150);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-bottom: 25px;
+  }
+  div.img-beta>p{
+    margin:inherit;
+    text-align: center;
+    border: none;
+    background-color: none;
+  }
